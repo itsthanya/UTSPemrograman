@@ -1,6 +1,6 @@
 # UTSPraktikumWeb
-#### NAMA  : FAHMI PRAYOGA
-#### NIM   : 311910682
+#### NAMA  : Gede Krishna
+#### NIM   : 311910429
 #### KELAS : TI.19.A.2
 
 ## Page HOME Setelah di Conversi
